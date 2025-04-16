@@ -19,6 +19,29 @@ Hi! I’m **N. Sharan**, a first-year undergraduate student at **IIT Kharagpur**
 ---
 
 ## 📁 Folder Structure
+---
+
+## 🎯 Features
+
+- 💻 Clean and responsive design
+- 🛠️ Separate sections for skills and projects
+- ✨ Interactive hover effects
+- 📱 Mobile-friendly layout
+
+---
+
+## 🚀 Live Demo
+
+👉 [Click here to view the live website](https://your-username.github.io/portfolio_01/)  
+(*Replace with your actual GitHub Pages link*)
+
+---
+
+## 🛠️ How to Run Locally
+
+1. Clone the repository  
+```bash
+git clone https://github.com/your-username/portfolio_01.git
 <!DOCTYPE html>
 <html lang="en">
 <h<img width="676" alt="img1" src="https://github.com/user-attachments/assets/c4d6c21c-68d8-4b97-9fc5-ef5cef6d4b97" />
