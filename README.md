@@ -1,5 +1,24 @@
-# portfolio_01
-i made a website using html and css , which is a portfolio it has separate sections for skills and projects
+# 🌐 Personal Portfolio Website
+
+This is my personal portfolio website built using **HTML** and **CSS**. It includes sections like **About Me**, **Projects**, and **Skills** — everything you need to know about me in one place!
+
+---
+
+## 🧑‍💻 About Me
+
+Hi! I’m **N. Sharan**, a first-year undergraduate student at **IIT Kharagpur**, pursuing a B.Tech in Electrical Engineering. I enjoy web development and am currently learning **C** and **JavaScript** to enhance my skills further.
+
+---
+
+## 🔧 Tech Stack Used
+
+- ✅ HTML5  
+- ✅ CSS3  
+- 🚧 (Learning): JavaScript & C
+
+---
+
+## 📁 Folder Structure
 <!DOCTYPE html>
 <html lang="en">
 <h<img width="676" alt="img1" src="https://github.com/user-attachments/assets/c4d6c21c-68d8-4b97-9fc5-ef5cef6d4b97" />
